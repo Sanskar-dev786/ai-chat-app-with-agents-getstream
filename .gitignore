@@ -1,0 +1,19 @@
+# Ignore environment files
+streamchatbackend/.env
+
+# Node modules (both backend and other folders if added later)
+**/node_modules
+
+# Logs
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# Build outputs
+**/dist
+**/build
+
+# System files
+.DS_Store
+Thumbs.db
