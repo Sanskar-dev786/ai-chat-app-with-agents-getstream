@@ -1,6 +1,6 @@
 # Ignore environment files
 streamchatbackend/.env
-
+react-streamchatfrontend/.env
 # Node modules (both backend and other folders if added later)
 **/node_modules
 
