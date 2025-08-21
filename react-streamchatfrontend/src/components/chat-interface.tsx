@@ -1,4 +1,4 @@
-import { useAIAgentStatus } from "@/hooks/use-ai-agent-status";
+import { useAIAgentStatus } from "@/hooks/use-ai-agents-status";
 import {
   Bot,
   Briefcase,
